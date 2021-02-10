@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GIBM Stundenplan</title>
+
+  <!-- bootstrap css import -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
+
+  <!-- fullcalendar.io css -->
+  <link href="https://unpkg.com/@fullcalendar/core@4.4.2/main.min.css" rel="stylesheet" />
+  <link href="https://unpkg.com/@fullcalendar/daygrid@4.4.2/main.min.css" rel="stylesheet" />
+  <link href="https://unpkg.com/@fullcalendar/timegrid@4.4.2/main.min.css" rel="stylesheet" />
+  <link href="https://cdn.jsdelivr.net/npm/@fullcalendar/bootstrap@4.4.2/main.min.css" rel="stylesheet" />
+</head>
+
+<body>
+  <div class="container">
+    <div>
+      <div class="row align-items-left">
+        <div class="col align-items-left">
+          <h3>
+            Stundenplan
+          </h3>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-body">
+              <div class="row align-items-center">
+                <select class="custom-select custom-select-sm mb-3" name="berufe" id="berufe">
+                  <option>Berufe</option>
+                </select>
+                <div id="warningMessage"></div>
+
+                <select class="custom-select custom-select-sm" name="klassen" id="klassen"> </select>
+                <div id="warningMessage"></div>
+              </div>
+              <div class="modal-footer">
+                <button onclick="setLocalStorage()" type="button" class="btn btn-dark"
+                  data-dismiss="modal">Bestätigen</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row align-items-center">
+        <div id="calendar" class="col"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- jquery import -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+
+  <!-- fullcalendar.io js import -->
+  <script src="https://cdn.jsdelivr.net/npm/moment@2.27.0/moment.min.js"></script>
+  <script src="https://unpkg.com/@fullcalendar/core@4.4.2/main.min.js"></script>
+  <script src="https://unpkg.com/@fullcalendar/daygrid@4.4.2/main.min.js"></script>
+  <script src="https://unpkg.com/@fullcalendar/timegrid@4.4.2/main.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@fullcalendar/bootstrap@4.4.2/main.min.js"></script>
+
+  <script src="js/calendar.js"></script>
+  <script src="js/main.js" async></script>
+  <script src="js/sort.js"></script>
+</body>
+
+</html>
