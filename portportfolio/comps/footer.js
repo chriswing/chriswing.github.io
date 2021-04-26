@@ -1,7 +1,7 @@
 const Footer = () => {
     return (
     <footer>
-        © Chris Wing 2021
+        © Chris Wing, 2021
     </footer> );
 }
  
