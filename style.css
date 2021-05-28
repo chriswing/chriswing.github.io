@@ -55,13 +55,13 @@ div.front:after {
   border-color: transparent;
 }
 div.front:before {
-  border-top-color: #288fbd;
-  border-left-color: #288fbd;
+  border-top-color: #000000;
+  border-left-color: #000000;
   z-index: 2;
 }
 div.front:after {
-  border-top-color: #005d8c;
-  border-right-color: #005d8c;
+  border-top-color: #40E0D0;
+  border-right-color: #40E0D0;
 }
 div.front div.name {
   position: absolute;
@@ -74,10 +74,10 @@ div.front div.name span {
   line-height: 45px;
 }
 div.front div.name span.first {
-  color: #005d8c;
+  color: #000000;
 }
 div.front div.name span.last {
-  color: #288fbd;
+  color: #40E0D0;
 }
 div.front div.name span.title {
   font-size: 20px;
@@ -85,8 +85,8 @@ div.front div.name span.title {
 }
 
 div.back {
-  background-color: #005d8c;
-  color: white;
+  background-color: #40E0D0;
+  color: #000000;
   width: 427px;
   height: 320px;
   box-sizing: border-box;
@@ -124,23 +124,22 @@ div.back figure.logo-white:before {
   top: 0;
   left: 0;
   border-width: 60px;
-  border-top-color: white;
-  border-left-color: white;
+  border-top-color: #000000;
+  border-left-color: #000000;
   z-index: 2;
 }
 div.back figure.logo-white:after {
   bottom: 0;
   right: 0;
   border-width: 56px;
-  border-right-color: white;
+  border-right-color: #000000;
 }
 div.back a {
-  color: white;
+  color: black;
   text-decoration: none;
-  display: block;
 }
 div.back a:hover {
-  text-decoration: underline;
+  color: #ffffff;
 }
 div.back ul.social {
   font-size: 1.25rem;
