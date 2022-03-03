@@ -400,6 +400,20 @@ a:hover {
   opacity: 1;
   transition: 0.3s;
 }
+@media (max-width: 767px) {
+  body .intro .swiper-pagination .swiper-pagination-bullet,
+  body .carousel-pagination .swiper-pagination-bullet {
+    width: 40px;
+    height: 25px;
+  }
+
+  body .intro .swiper-pagination .swiper-pagination-bullet-active,
+  body .carousel-pagination .swiper-pagination-bullet-active {
+    background-color: var(--brand-color);
+    width: 50px;
+  }
+}
+
 .carousel-pagination .swiper-pagination-bullet-active {
   background-color: var(--brand-color);
   width: 36px;

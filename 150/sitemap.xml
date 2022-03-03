@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+
+  <url>
+    <loc>https://chriswing.github.io/150/</loc>
+    <lastmod>2022-03-03T10:16:57+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://chriswing.github.io/150/index.html</loc>
+    <lastmod>2022-03-03T10:16:57+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://chriswing.github.io/150/about.html</loc>
+    <lastmod>2022-03-03T10:16:57+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://chriswing.github.io/150/fleet.html</loc>
+    <lastmod>2022-03-03T10:16:57+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://chriswing.github.io/150/contact.html</loc>
+    <lastmod>2022-03-03T10:16:57+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://chriswing.github.io/150/destinations.html</loc>
+    <lastmod>2022-03-03T10:16:57+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://chriswing.github.io/150/news.html</loc>
+    <lastmod>2022-03-03T10:16:57+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://chriswing.github.io/150/news/wingit-orders-10-additional-pc-12-ngxs.html</loc>
+    <lastmod>2022-03-03T10:16:57+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://chriswing.github.io/150/news/the-pilatus-pc-24.html</loc>
+    <lastmod>2022-03-03T10:16:57+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://chriswing.github.io/150/news/wingit-adds-pc-12-ngx-5th-pc-24-to-fleet.html</loc>
+    <lastmod>2022-03-03T10:16:57+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://chriswing.github.io/150/news/pilatus-launches-the-pc-12-ngx.html</loc>
+    <lastmod>2022-03-03T10:16:57+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://chriswing.github.io/150/privacy-policy.html</loc>
+    <lastmod>2022-03-03T10:16:57+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://chriswing.github.io/150/pc-12.html</loc>
+    <lastmod>2022-03-03T10:16:57+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://chriswing.github.io/150/pc-24.html</loc>
+    <lastmod>2022-03-03T10:16:57+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+
+</urlset>

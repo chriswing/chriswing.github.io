@@ -113,7 +113,7 @@
   /**
    * Property carousel
    */
-  new Swiper('#property-carousel', {
+  new Swiper('#destitnations-carousel', {
     speed: 1000,
     loop: true,
     autoplay: {
@@ -122,7 +122,7 @@
     },
     slidesPerView: 'auto',
     pagination: {
-      el: '.propery-carousel-pagination',
+      el: '.destitnations-carousel-pagination',
       type: 'bullets',
       clickable: true
     },
