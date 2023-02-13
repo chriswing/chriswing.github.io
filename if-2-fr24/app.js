@@ -1,4 +1,3 @@
-
 function convertToCSV(objArray) {
     var array = typeof objArray != 'object' ? JSON.parse(objArray) : objArray;
     var str = '';
@@ -7,13 +6,10 @@ function convertToCSV(objArray) {
         var line = '';
         for (var index in array[i]) {
             if (line != '') line += ','
-
             line += array[i][index];
         }
-
         str += line + '\r\n';
     }
-
     return str;
 }
 
@@ -334,7 +330,6 @@ loginForm.addEventListener("submit", (e) => {
 
 
     ifc = $('#ifcName').val();
-    console.log(ifc);
     $.ajax({
         type: "POST",
         url: "https://api.infiniteflight.com/public/v2/users?apikey=rgqs3p8ewvkacjpb8hlh06jo7hyqrq9k",
@@ -345,7 +340,6 @@ loginForm.addEventListener("submit", (e) => {
             download(ifUserId);
         },
     });
-
 });
 
 

@@ -1,3 +1,8 @@
+:root{
+    --if-color: #FA9822;
+    --fr24-color: #F7BF24;
+}
+
 * {
     box-sizing: border-box;
 }
@@ -13,24 +18,23 @@ body {
     justify-content: center;
     min-height: 100%;
     font-size: 1.6rem;
-    background: tomato;
-    background: -webkit-linear-gradient(135deg, #fa9822, #1420a2);
-    background: -o-linear-gradient(135deg, #fa9822, #1420a2);
-    background: -moz-linear-gradient(135deg, #fa9822, #1420a2);
-    background-image: linear-gradient(135deg, #fa9822, #1420a2);
+    background: rgb(255, 83, 83);
+    background: -webkit-linear-gradient(135deg, var(--if-color), var(--fr24-color));
+    background: -o-linear-gradient(135deg, var(--if-color), var(--fr24-color));
+    background: -moz-linear-gradient(135deg, var(--if-color), var(--fr24-color));
+    background-image: linear-gradient(135deg, var(--if-color), var(--fr24-color));
 }
 
 .download-wrapper {
-    cursor: pointer;
     margin-top: -100px;
 }
 
-.download-wrapper p {
+.download-wrapper h1 {
     text-align: center;
     color: #fff;
     margin: auto;
     height: 30px;
-    font-size: 22px;
+    font-size: 48px;
     font-weight: bold;
     font-family: 'Abel', sans-serif;
 }
@@ -40,4 +44,10 @@ body {
     border-radius: 15px;
     padding: 1rem;
     border: none;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.download-wrapper button {
+    cursor: pointer;
 }
