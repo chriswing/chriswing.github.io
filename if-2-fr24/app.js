@@ -85,19 +85,19 @@ var aircraft = [
     },
     {
         "id": "982dd974-5be7-4369-90c6-bd92863632ba",
-        "name": "Airbus A318-100"
+        "name": "Airbus A318"
     },
     {
         "id": "2c2f162e-a7d9-4ebd-baf4-859aed36165a",
-        "name": "Airbus A319-100"
+        "name": "Airbus A319"
     },
     {
         "id": "a266b67f-03e3-4f8c-a2bb-b57cfd4b12f3",
-        "name": "Airbus A320-200"
+        "name": "Airbus A320"
     },
     {
         "id": "d7434d84-555a-4d9b-93a7-53c77cf846ea",
-        "name": "Airbus A321-200"
+        "name": "Airbus A321"
     },
     {
         "id": "f580ad00-b7c7-4813-9dbc-c4a8c655cc46",
@@ -109,7 +109,7 @@ var aircraft = [
     },
     {
         "id": "474810ee-503c-44f2-a305-c176ec8cc431",
-        "name": "Airbus A330-900neo"
+        "name": "Airbus A330-900"
     },
     {
         "id": "8b00fd70-d825-4c30-a52e-3a27a3a1a157",
@@ -117,39 +117,39 @@ var aircraft = [
     },
     {
         "id": "230ec095-5e36-4637-ba2f-68831b31e891",
-        "name": "Airbus A350-900"
+        "name": "Airbus A350"
     },
     {
         "id": "f11ed126-bce8-46ef-9265-69191c354575",
-        "name": "Airbus A380-800"
+        "name": "Airbus A380"
     },
     {
         "id": "341820c8-ed7e-4824-9f53-f7489231fe26",
-        "name": "Boeing B717-200"
+        "name": "Boeing 717-200"
     },
     {
         "id": "2ec6f8cd-fdb9-464f-87c2-808f778fdb1d",
-        "name": "Boeing B737-700"
+        "name": "Boeing 737-700"
     },
     {
         "id": "f60a537d-5f83-4b68-8f66-b5f76d1e1775",
-        "name": "Boeing B737-800"
+        "name": "Boeing 737-800"
     },
     {
         "id": "64568366-b72c-47bd-8bf6-6fdb81b683f9",
-        "name": "Boeing B737-900"
+        "name": "Boeing 737-900"
     },
     {
         "id": "c82da702-ea61-4399-921c-34f35f3ca5c4",
-        "name": "Boeing B747-200"
+        "name": "Boeing 747-200"
     },
     {
         "id": "de510d3d-04f8-46e0-8d65-55b888f33129",
-        "name": "Boeing B747-400"
+        "name": "Boeing 747-400"
     },
     {
         "id": "9759c19f-8f18-40f5-80d1-03a272f98a3b",
-        "name": "Boeing B747-8"
+        "name": "Boeing 747-8"
     },
     {
         "id": "e94ec915-3368-4bcc-bc78-2c5ad3cfbabb",
@@ -161,43 +161,43 @@ var aircraft = [
     },
     {
         "id": "3ee45d20-1984-4d95-a753-3696e35cdf77",
-        "name": "Boeing B747-SOFIA"
+        "name": "Boeing 747-SOFIA"
     },
     {
         "id": "ed29f26b-774e-471e-a23a-ecb9b6f5da74",
-        "name": "Boeing B757-200"
+        "name": "Boeing 757-200"
     },
     {
         "id": "3828d120-d5b9-475b-b368-a94aad264b07",
-        "name": "Boeing B767-300"
+        "name": "Boeing 767-300"
     },
     {
         "id": "bec63a00-a483-4427-a076-0f76dba0ee97",
-        "name": "Boeing B777-200ER"
+        "name": "Boeing 777-200ER"
     },
     {
         "id": "8290107b-d728-4fc3-b36e-0224c1780bac",
-        "name": "Boeing B777-200LR"
+        "name": "Boeing 777-200LR"
     },
     {
         "id": "e258f6d4-4503-4dde-b25c-1fb9067061e2",
-        "name": "Boeing B777-300ER"
+        "name": "Boeing 777-300ER"
     },
     {
         "id": "6925c030-a868-49cc-adc8-7025537c51ca",
-        "name": "Boeing B777F"
+        "name": "Boeing 777F"
     },
     {
         "id": "61084cae-8aac-4da4-a7df-396ec6d9c870",
-        "name": "Boeing B787-10"
+        "name": "Boeing 787-10"
     },
     {
         "id": "c1ae3647-f56a-4dc4-9007-cc8b1a2697a5",
-        "name": "Boeing B787-8"
+        "name": "Boeing 787-8"
     },
     {
         "id": "0c039044-1a57-48db-99c1-7570a6bf2b00",
-        "name": "Boeing B787-9"
+        "name": "Boeing 787-9"
     },
     {
         "id": "3098345e-1152-4441-96ec-40a71179a24f",
@@ -237,19 +237,19 @@ var aircraft = [
     },
     {
         "id": "b3907f6b-c8cf-427b-94fb-1f9365d990df",
-        "name": "Bombardier CRJ 1000"
+        "name": "CRJ-1000"
     },
     {
         "id": "24364e52-3788-487f-9f98-00f38b1f459c",
-        "name": "Bombardier CRJ 200"
+        "name": "CRJ-200"
     },
     {
         "id": "8f34680a-a4ad-4f21-91e9-3a932ab03ca4",
-        "name": "Bombardier CRJ 700"
+        "name": "CRJ-700"
     },
     {
         "id": "958486b0-1ef4-4efd-bee0-ea94e96f6c96",
-        "name": "Bombardier CRJ 900"
+        "name": "CRJ-900"
     },
     {
         "id": "8bafde46-7e6e-44c5-800f-917237c49d75",
@@ -257,27 +257,19 @@ var aircraft = [
     },
     {
         "id": "693c3fab-307d-4467-aa40-0a4d569841a9",
-        "name": "McDonnell Douglas DC-10"
+        "name": "DC-10"
     },
     {
         "id": "e59fa7b4-b708-4480-aebd-26659a4f312b",
-        "name": "McDonnell Douglas DC-10F"
-    },
-    {
-        "id": "dac4bb8e-6bb3-480a-a5a5-191d7d351e47",
-        "name": "Embraer E170"
+        "name": "DC-10F"
     },
     {
         "id": "af055734-aaed-44ad-a2d0-5b9046f29d0d",
-        "name": "Embraer E175"
+        "name": "ERJ-175"
     },
     {
         "id": "7de22dcf-91dd-4932-b225-533298873df2",
-        "name": "Embraer E190"
-    },
-    {
-        "id": "dd2f3f8e-db6e-4fd5-ae7d-af8b9289c755",
-        "name": "Embraer E195"
+        "name": "ERJ-190"
     },
     {
         "id": "9bbe741a-6fbe-415b-9eb1-00d45083c7a4",
@@ -293,15 +285,15 @@ var aircraft = [
     },
     {
         "id": "0a3edb21-d515-4619-8392-aef51b952ac9",
-        "name": "F18"
+        "name": "F/A-18E Super Hornet"
     },
     {
         "id": "b1e726b0-be58-4a9b-88e5-e40bc40a1f9a",
-        "name": "McDonnell Douglas MD-11"
+        "name": "MD-11"
     },
     {
         "id": "3f78766a-30c8-4d65-95ae-ebc2fb758aac",
-        "name": "McDonnell Douglas MD-11F"
+        "name": "MD-11F"
     },
     {
         "id": "9769c825-0f89-4faf-abb1-9dd473321ede",
@@ -318,9 +310,23 @@ var aircraft = [
 ]
 
 function getAircraftById(aircraftId) {
-    aircraftType = aircraft.find((item) => item.id === aircraftId);
-    aircraftName = aircraftType.name;
-    return aircraftName;
+    if (aircraftId === null) {
+        aircraftName = '';
+    } else {
+        aircraftType = aircraft.find((item) => item.id === aircraftId);
+        aircraftName = aircraftType.name;
+        return aircraftName;
+    }
+}
+
+function getAirlineById(liveryId) {
+    if (liveryId === null) {
+        airlineName = '';
+    } else {
+        airlineType = airline.find((item) => item.id === liveryId);
+        airlineName = airlineType.liveryName;
+        return airlineName;
+    }
 }
 
 let loginForm = document.getElementById("search");
@@ -373,7 +379,6 @@ function download() {
 
             // format the data
             itemsNotFormatted.forEach((item) => {
-
 
                 var aircraftFullName = getAircraftById(item.aircraftId);
 
